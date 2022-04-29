@@ -8,10 +8,8 @@ function App() {
   return (
     <div className="App">
       <input
-        id="filepicker"
         type="file"
-        name="fileList"
-        webkitdirectory="./"
+        webkitdirectory=""
         multiple
         onChange={async (e) => {
           const { files } = e.target;
