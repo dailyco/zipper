@@ -3047,6 +3047,13 @@ __metadata:
   languageName: node
   linkType: hard
 
+"@zip.js/zip.js@npm:^2.4.10":
+  version: 2.4.10
+  resolution: "@zip.js/zip.js@npm:2.4.10"
+  checksum: 4b4f28f778ac17a4a5c399689c5c12780a96056b355d1935b4f36e72e89f7209ad4758a56a73122d829ff55ece3afd999a1db688b5810ea0fb4a305cb9764758
+  languageName: node
+  linkType: hard
+
 "abab@npm:^2.0.3, abab@npm:^2.0.5":
   version: 2.0.6
   resolution: "abab@npm:2.0.6"
@@ -12464,6 +12471,7 @@ __metadata:
     "@testing-library/jest-dom": ^5.16.4
     "@testing-library/react": ^13.1.1
     "@testing-library/user-event": ^13.5.0
+    "@zip.js/zip.js": ^2.4.10
     react: ^18.1.0
     react-dom: ^18.1.0
     react-scripts: 5.0.1
